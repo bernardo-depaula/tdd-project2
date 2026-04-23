@@ -1,0 +1,5 @@
+Os Testes Funcionais são mais lentos por envolverem o sistema completo (browser, servidor, banco de dados),
+ enquanto os Testes de Unidade são muito rápidos, rodando em milissegundos por testarem partes isoladas do código.
+ 
+Outra diferença é que quando um Teste Funcional falha, ele indica o quê está quebrado na experiência do usuário, mas não aponta a causa exata.
+ Já os Testes de Unidade, quando falham, dizem onde exatamente no código está o problema, facilitando a correção.
