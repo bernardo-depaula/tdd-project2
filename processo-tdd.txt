@@ -1,0 +1,1 @@
+ TDD garante que todo código escrito é justificado por um teste, e que refatorações não quebram o comportamento existente. O ciclo é sempre: vermelho (falha) → verde (passa) → refatora.
